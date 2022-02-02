@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://github.com/SUSHANTHA-LAB"><img width="280px" src="https://raw.githubusercontent.com/GSri30/GSri30/main/profile.gif?token=ANBXICR6B3NXNHCWZ5L7X6S747TPK">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p></a>
+<a href="https://github.com/SUSHANTHA-LAB"><img width="280px" src="https://raw.githubusercontent.com/GSri30/GSri30/main/profile.gif?token=ANBXICR6B3NXNHCWZ5L7X6S747TPK"></a>
 
 <a href="https://www.linkedin.com/in/sushantha-koonadi-9232a8186/" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
