@@ -8,11 +8,9 @@
 <a href="https://www.instagram.com/_gsri30_/" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
 </div>
 
-- 👨‍🎓 Computer Science student at IIIT Bangalore.
+- 👨‍🎓 Electronics and instrumentation student at CVR College.
 - 🖥️ Loves to play CTFs.
 - 🖮 CP beginner.
-- 🌇 Summer intern at FOSSEE IIT Bombay.
-- 💻 Developer at Zense-IIITB.
 
 
 ### 💻 Languages
@@ -34,11 +32,4 @@
 ![Git](http://img.shields.io/badge/-Git-000?&logo=git)
 ![Markdown](http://img.shields.io/badge/-Markdown-000?&logo=markdown)
 
-### 🎓 Organizations
 
-<a href="https://zense.co.in/"><img width="40px" height="40px" src="https://github.com/GSri30/GSri30/raw/main/zense.png"></a>
-
-<!-- include projects and algo profiles -->
-
-### :octocat: GitHub Stats
-<a href="https://gsri30.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=GSri30&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSri30&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/></a>
