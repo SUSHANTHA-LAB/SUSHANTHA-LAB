@@ -9,7 +9,7 @@
 </div>
 
 - 👨‍🎓 Electronics and instrumentation student at CVR College.
-- 🖥️ Loves to play CTFs.
+- Enjoyes building stuff.
 - 🖮 CP beginner.
 
 
