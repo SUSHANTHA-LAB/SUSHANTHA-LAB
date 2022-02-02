@@ -1,14 +1,14 @@
 <div align="center">
-<a href="https://gsri30.github.io/"><img width="280px" src="https://raw.githubusercontent.com/GSri30/GSri30/main/profile.gif?token=ANBXICR6B3NXNHCWZ5L7X6S747TPK"></a>
+<a href="https://github.com/SUSHANTHA-LAB"><img width="280px" src="https://raw.githubusercontent.com/GSri30/GSri30/main/profile.gif?token=ANBXICR6B3NXNHCWZ5L7X6S747TPK"></a>
 
-<a href="https://www.linkedin.com/in/sri-harsha-g-15534a18a" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/people/Sri-Harsha-G/100006387729055" > <img width= "40" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/SriHarshaG6" > <img width= "40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.quora.com/profile/Sri-Harsha-G-2"><img width="40" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_gsri30_/" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
+<a href="https://www.linkedin.com/in/sushantha-koonadi-9232a8186/" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
+<a href=""><img width="40" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
 </div>
 
-- 👨‍🎓 Electronics and instrumentation student at CVR College.
+- 👨‍🎓 Electronics student at CVR College.
 - Enjoyes building stuff.
 - 🖮 CP beginner.
 
