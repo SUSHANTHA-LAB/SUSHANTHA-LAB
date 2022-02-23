@@ -9,7 +9,7 @@
 <a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
 </div>
 
-- 👨‍🎓 Electronics student at CVR College.
+- 👨‍🎓 Electronics And Instrumentation Student at CVR College.
 - Enjoyes building stuff.
 - 🖮 CP beginner.
 
