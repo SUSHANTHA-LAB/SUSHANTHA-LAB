@@ -1,5 +1,7 @@
-
-![giphy](align='center' ,https://user-images.githubusercontent.com/64543101/152156866-c94ce891-1c2a-49a6-9275-c84c8d69b65f.gif)
+<p>
+  <img src="https://user-images.githubusercontent.com/64543101/152156866-c94ce891-1c2a-49a6-9275-c84c8d69b65f.gif" alt="animated" />
+  ![giphy](https://user-images.githubusercontent.com/64543101/152156866-c94ce891-1c2a-49a6-9275-c84c8d69b65f.gif)
+</p>
 </div>
 <div align='center'>
 <a href="https://www.linkedin.com/in/sushantha-koonadi-9232a8186/" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> 
