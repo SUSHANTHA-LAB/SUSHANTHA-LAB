@@ -1,6 +1,5 @@
-<p>
+<p align='center'>
   <img src="https://user-images.githubusercontent.com/64543101/152156866-c94ce891-1c2a-49a6-9275-c84c8d69b65f.gif" alt="animated" />
-  ![giphy](https://user-images.githubusercontent.com/64543101/152156866-c94ce891-1c2a-49a6-9275-c84c8d69b65f.gif)
 </p>
 </div>
 <div align='center'>
