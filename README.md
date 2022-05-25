@@ -4,7 +4,7 @@
 </div>
 <div align='center'>
 <a href="https://www.linkedin.com/in/sushantha-koonadi-9232a8186/" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> 
-<a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> 
+<a href="https://twitter.com/SUSHANTCYAN" > <img width= "40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> 
 <a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
 </div>
 
