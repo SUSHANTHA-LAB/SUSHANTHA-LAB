@@ -1,10 +1,8 @@
 
+<div >
 ![giphy](https://user-images.githubusercontent.com/64543101/152156866-c94ce891-1c2a-49a6-9275-c84c8d69b65f.gif)
-
-
-<a href="https://www.linkedin.com/in/sushantha-koonadi-9232a8186/" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-<a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sushantha-koonadi-9232a8186/" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> 
+<a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> 
 <a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
 </div>
 
