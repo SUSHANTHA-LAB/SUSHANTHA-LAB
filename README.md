@@ -5,11 +5,10 @@
 <a href="https://www.linkedin.com/in/sushantha-koonadi-9232a8186/" > <img width= "40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 <a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"> </a> &nbsp;&nbsp;&nbsp;
-<a href=""><img width="40" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg"></a> &nbsp;&nbsp;&nbsp;
 <a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
 </div>
 
-- 👨‍🎓 Electronics And Instrumentation Student at CVR College.
+- 👨‍🎓 Electronics And Instrumentation Student at CVR College Of Engineering.
 - Enjoyes building stuff.
 - 🖮 CP beginner.
 
@@ -23,11 +22,8 @@
 
 ### 🛠 Technologies
 
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![Manim](http://img.shields.io/badge/-Manim-000?&logo=python)
-![Latex](http://img.shields.io/badge/-Latex-000?&logo=latex)
 ![Illustrator](http://img.shields.io/badge/-Illustrator-000?&logo=adobe)
 ![Git](http://img.shields.io/badge/-Git-000?&logo=git)
 ![Markdown](http://img.shields.io/badge/-Markdown-000?&logo=markdown)
