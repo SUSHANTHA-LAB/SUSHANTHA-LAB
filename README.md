@@ -8,7 +8,7 @@
 <a href="" > <img width= "40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> </a>
 </div>
 
-## Enjoyes building stuff.
+### Enjoyes building stuff.
 
 ### 💻 Languages
 
@@ -20,7 +20,7 @@
 ### 🛠 Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Embedded}
+![Embedded]
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![Illustrator](http://img.shields.io/badge/-Illustrator-000?&logo=adobe)
 ![Git](http://img.shields.io/badge/-Git-000?&logo=git)
