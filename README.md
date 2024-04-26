@@ -17,13 +17,6 @@
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/GSri30?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/GSri30?tab=repositories&q=&type=&language=c%2B%2B)
 
-### 🛠 Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Embedded]
-![Bootstrap](http://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-![Illustrator](http://img.shields.io/badge/-Illustrator-000?&logo=adobe)
-![Git](http://img.shields.io/badge/-Git-000?&logo=git)
-![Markdown](http://img.shields.io/badge/-Markdown-000?&logo=markdown)
 
 
